@@ -1,6 +1,6 @@
 # **itsmenatika** <- yaa, it's me
 
-I'm just aspiring software developer who decided to create her own github account to share how it goes. I don't know who i will become in the future yet though.
+I'm just an aspiring software developer who decided to create her own github account to share how it goes. I don't know who i will become in the future yet though.
 I'm currently mostly interested in languages such as:
 - Javascript:
    * discord.js
